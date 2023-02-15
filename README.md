@@ -1,4 +1,4 @@
-### <h1> HOLA, MI NOMBRE ES LAUTARO POSTIGLIONE!👾👨‍💻</h1>
+### <h1> Hola, mi nombre es Lautaro Postiglione!👾👨‍💻</h1>
 <br/>
 
 <h2>✨ ¿Quien soy?: </h2>
