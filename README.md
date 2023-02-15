@@ -12,7 +12,7 @@ Me considero alguien resolutivo y creativo.
 <p>Actualmente estoy mejorando y creando nuevos conocimientos como programador. Me gusta mucho compartir y trabajar en grupo, disfruto de conocer y relacionarme con gente nueva. Ando con muchas ganas de emprender en el mundo tech, muy predispuesto y listo para nuevas experiencias. </p>
 <br/>
 
-<h2>💻Hard skills:</h2>
+##<h2>💻Hard skills:</h2>
 <p>Gracias a ser alguien muy autodidacta, y a los conocimientos que me brindo el Bootcamp de HENRY🚀. Las principales tecnologias que manejo son:
   <ul>
     <li>Javascript</li>
